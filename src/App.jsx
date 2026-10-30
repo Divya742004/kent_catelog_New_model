@@ -93,7 +93,7 @@ function App(){return h("div",null,
  h("header",null,h("div",{className:"wrap"},
   h("div",{className:"top"},
    h("img",{src:LOGO,alt:"Aakash Aqua Tech logo"}),
-   h("div",{className:"nm"},h("h1",null,"Aakash Aqua Tech Pvt Ltd"),h("p",null,"Technology, the natural way · Kent Water Purifier Catalog")),
+   h("div",{className:"nm"},h("h1",null,"Aakash Pure Aqua Tech Pvt Ltd"),h("p",null,"Technology, the natural way · Kent Water Purifier Catalog")),
    h("div",{className:"a25"},h("div",{className:"n"},"25",h("sup",null,"th")),h("div",{className:"rb"},"ANNIVERSARY"))),
   h("div",{className:"badges"},
    h("span",{className:"badge"},"ISO Certified Company 9001:2015"),
@@ -103,5 +103,5 @@ function App(){return h("div",null,
   h("div",{className:"sec"},h("h2",null,"Our Kent Water Purifiers"),h("p",{className:"sub"},"Pure, safe drinking water for every home."),h(Fan)),
   h("p",{className:"note"},"Prices shown are indicative Kent MRP (incl. taxes); offers and final prices may vary. Call us for the best price."),
   )),
- h("footer",null,"© Aakash Aqua Tech Pvt Ltd · 25 Years of Pure Trust · ",PHONES.join(" / ")))}
+ h("footer",null,"© Aakash Pure Aqua Tech Pvt Ltd · 25 Years of Pure Trust · ",PHONES.join(" / ")))}
 export default App;
